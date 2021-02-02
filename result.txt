@@ -1,0 +1,291 @@
+开始解析课程
+
+ [1/145] Get Class {"name": "商务英语写...", "link": "http://mooc1.chaoxing.com/course/204210899.html", "id": "204210899", "videoTime": 159, "videoNum": 36} 
+ [2/145] Get Class {"name": "中国文明史...", "link": "http://mooc1.chaoxing.com/course/216641324.html", "id": "216641324", "videoTime": 713, "videoNum": 67}  
+ [3/145] Get Class {"name": "中国文明史...", "link": "http://mooc1.chaoxing.com/course/216641325.html", "id": "216641325", "videoTime": 520, "videoNum": 50}  
+ [4/145] Get Class {"name": "中国历史人...", "link": "http://mooc1.chaoxing.com/course/216641326.html", "id": "216641326", "videoTime": 864, "videoNum": 43}  
+ [5/145] Get Class {"name": "中国历史人...", "link": "http://mooc1.chaoxing.com/course/216641327.html", "id": "216641327", "videoTime": 831, "videoNum": 49}  
+ [6/145] Get Class {"name": "中华诗词之美", "link": "http://mooc1.chaoxing.com/course/216641328.html", "id": "216641328", "videoTime": 1031, "videoNum": 50}   
+ [7/145] Get Class {"name": "舌尖上的植物学", "link": "http://mooc1.chaoxing.com/course/216641329.html", "id": "216641329", "videoTime": 1095, "videoNum": 99}  
+ [8/145] Get Class {"name": "创新中国", "link": "http://mooc1.chaoxing.com/course/216641330.html", "id": "216641330", "videoTime": 789, "videoNum": 42}      
+ [9/145] Get Class {"name": "儒学复兴与...", "link": "http://mooc1.chaoxing.com/course/216641331.html", "id": "216641331", "videoTime": 618, "videoNum": 36}  
+ [10/145] Get Class {"name": "学术规范与...", "link": "http://mooc1.chaoxing.com/course/216641332.html", "id": "216641332", "videoTime": 1263, "videoNum": 62} 
+ [11/145] Get Class {"name": "经典力学", "link": "http://mooc1.chaoxing.com/course/216641333.html", "id": "216641333", "videoTime": 2643, "videoNum": 134}     
+ [12/145] Get Class {"name": "艺术哲学：...", "link": "http://mooc1.chaoxing.com/course/216641334.html", "id": "216641334", "videoTime": 915, "videoNum": 57}   
+ [13/145] Get Class {"name": "中国现代文...", "link": "http://mooc1.chaoxing.com/course/216641335.html", "id": "216641335", "videoTime": 1284, "videoNum": 58}  
+ [14/145] Get Class {"name": "知识论导论...", "link": "http://mooc1.chaoxing.com/course/216641336.html", "id": "216641336", "videoTime": 787, "videoNum": 54}   
+ [15/145] Get Class {"name": "文学与伦理", "link": "http://mooc1.chaoxing.com/course/216641337.html", "id": "216641337", "videoTime": 810, "videoNum": 49}      
+ [16/145] Get Class {"name": "中国古典哲...", "link": "http://mooc1.chaoxing.com/course/216641338.html", "id": "216641338", "videoTime": 896, "videoNum": 53}   
+ [17/145] Get Class {"name": "多元对话：...", "link": "http://mooc1.chaoxing.com/course/216641339.html", "id": "216641339", "videoTime": 561, "videoNum": 33}   
+ [18/145] Get Class {"name": "走近大诗人", "link": "http://mooc1.chaoxing.com/course/216641340.html", "id": "216641340", "videoTime": 885, "videoNum": 58}      
+ [19/145] Get Class {"name": "历史的三峡...", "link": "http://mooc1.chaoxing.com/course/216641341.html", "id": "216641341", "videoTime": 858, "videoNum": 60}   
+ [20/145] Get Class {"name": "纷争的年代...", "link": "http://mooc1.chaoxing.com/course/216641342.html", "id": "216641342", "videoTime": 1004, "videoNum": 55}  
+ [21/145] Get Class {"name": "意义生活：...", "link": "http://mooc1.chaoxing.com/course/216641343.html", "id": "216641343", "videoTime": 638, "videoNum": 55}   
+ [22/145] Get Class {"name": "大学生健康教育", "link": "http://mooc1.chaoxing.com/course/216641344.html", "id": "216641344", "videoTime": 1001, "videoNum": 75}   
+ [23/145] Get Class {"name": "身边的基因科学", "link": "http://mooc1.chaoxing.com/course/216641345.html", "id": "216641345", "videoTime": 846, "videoNum": 60}    
+ [24/145] Get Class {"name": "通识写作：...", "link": "http://mooc1.chaoxing.com/course/216641346.html", "id": "216641346", "videoTime": 740, "videoNum": 60}   
+ [25/145] Get Class {"name": "经济与社会...", "link": "http://mooc1.chaoxing.com/course/216641347.html", "id": "216641347", "videoTime": 1443, "videoNum": 84}  
+ [26/145] Get Class {"name": "犯罪与文明", "link": "http://mooc1.chaoxing.com/course/216641348.html", "id": "216641348", "videoTime": 1020, "videoNum": 61}     
+ [27/145] Get Class {"name": "欧洲文明的...", "link": "http://mooc1.chaoxing.com/course/216641349.html", "id": "216641349", "videoTime": 1120, "videoNum": 60}  
+ [28/145] Get Class {"name": "考古与人类", "link": "http://mooc1.chaoxing.com/course/216641350.html", "id": "216641350", "videoTime": 1351, "videoNum": 72}     
+ [29/145] Get Class {"name": "古典诗词鉴赏", "link": "http://mooc1.chaoxing.com/course/216641351.html", "id": "216641351", "videoTime": 1215, "videoNum": 72}    
+ [30/145] Get Class {"name": "先秦诸子", "link": "http://mooc1.chaoxing.com/course/216641353.html", "id": "216641353", "videoTime": 1291, "videoNum": 74}      
+ [31/145] Get Class {"name": "中国当代小...", "link": "http://mooc1.chaoxing.com/course/216641355.html", "id": "216641355", "videoTime": 817, "videoNum": 52}   
+ [32/145] Get Class {"name": "中国道路的...", "link": "http://mooc1.chaoxing.com/course/216641356.html", "id": "216641356", "videoTime": 1420, "videoNum": 102} 
+ [33/145] Get Class {"name": "经济学原理...", "link": "http://mooc1.chaoxing.com/course/216641357.html", "id": "216641357", "videoTime": 964, "videoNum": 68}    
+ [34/145] Get Class {"name": "经济学原理...", "link": "http://mooc1.chaoxing.com/course/216641358.html", "id": "216641358", "videoTime": 794, "videoNum": 50}    
+ [35/145] Get Class {"name": "像经济学家...", "link": "http://mooc1.chaoxing.com/course/216641359.html", "id": "216641359", "videoTime": 870, "videoNum": 55}    
+ [36/145] Get Class {"name": "透过性别看世界", "link": "http://mooc1.chaoxing.com/course/216641360.html", "id": "216641360", "videoTime": 684, "videoNum": 49}     
+ [37/145] Get Class {"name": "马克思主义...", "link": "http://mooc1.chaoxing.com/course/216641361.html", "id": "216641361", "videoTime": 776, "videoNum": 49}    
+ [38/145] Get Class {"name": "人工智能，...", "link": "http://mooc1.chaoxing.com/course/216641362.html", "id": "216641362", "videoTime": 771, "videoNum": 45}    
+ [39/145] Get Class {"name": "人文的物理学", "link": "http://mooc1.chaoxing.com/course/216641363.html", "id": "216641363", "videoTime": 1046, "videoNum": 70}     
+ [40/145] Get Class {"name": "大脑的奥秘...", "link": "http://mooc1.chaoxing.com/course/216641364.html", "id": "216641364", "videoTime": 902, "videoNum": 51}    
+ [41/145] Get Class {"name": "《中庸》精读", "link": "http://mooc1.chaoxing.com/course/216641365.html", "id": "216641365", "videoTime": 965, "videoNum": 73}      
+ [42/145] Get Class {"name": "《孟子》精读", "link": "http://mooc1.chaoxing.com/course/216641366.html", "id": "216641366", "videoTime": 978, "videoNum": 69}      
+ [43/145] Get Class {"name": "中国古典小...", "link": "http://mooc1.chaoxing.com/course/216641368.html", "id": "216641368", "videoTime": 867, "videoNum": 56}    
+ [44/145] Get Class {"name": "《大学》精读", "link": "http://mooc1.chaoxing.com/course/216641369.html", "id": "216641369", "videoTime": 1032, "videoNum": 74}     
+ [45/145] Get Class {"name": "《论语》精读", "link": "http://mooc1.chaoxing.com/course/216641370.html", "id": "216641370", "videoTime": 1126, "videoNum": 89}     
+ [46/145] Get Class {"name": "《上帝掷骰...", "link": "http://mooc1.chaoxing.com/course/216641371.html", "id": "216641371", "videoTime": 189, "videoNum": 24}    
+ [47/145] Get Class {"name": "《理想国》导读", "link": "http://mooc1.chaoxing.com/course/216641372.html", "id": "216641372", "videoTime": 691, "videoNum": 52}     
+ [48/145] Get Class {"name": "《正义论》导读", "link": "http://mooc1.chaoxing.com/course/216641373.html", "id": "216641373", "videoTime": 765, "videoNum": 52}     
+ [49/145] Get Class {"name": "《共产党宣...", "link": "http://mooc1.chaoxing.com/course/216641374.html", "id": "216641374", "videoTime": 1211, "videoNum": 70}   
+ [50/145] Get Class {"name": "帝国的兴衰...", "link": "http://mooc1.chaoxing.com/course/216641375.html", "id": "216641375", "videoTime": 237, "videoNum": 24}    
+ [51/145] Get Class {"name": "《植物知道...", "link": "http://mooc1.chaoxing.com/course/216641376.html", "id": "216641376", "videoTime": 654, "videoNum": 58}    
+ [52/145] Get Class {"name": "《时间简史...", "link": "http://mooc1.chaoxing.com/course/216641377.html", "id": "216641377", "videoTime": 401, "videoNum": 43}    
+ [53/145] Get Class {"name": "《诗经》导读", "link": "http://mooc1.chaoxing.com/course/216641378.html", "id": "216641378", "videoTime": 974, "videoNum": 69}      
+ [54/145] Get Class {"name": "《论语》导...", "link": "http://mooc1.chaoxing.com/course/216641379.html", "id": "216641379", "videoTime": 715, "videoNum": 56}    
+ [55/145] Get Class {"name": "《春秋》导读", "link": "http://mooc1.chaoxing.com/course/216641380.html", "id": "216641380", "videoTime": 813, "videoNum": 46}      
+ [56/145] Get Class {"name": "《三国志》导读", "link": "http://mooc1.chaoxing.com/course/216641381.html", "id": "216641381", "videoTime": 1026, "videoNum": 56}    
+ [57/145] Get Class {"name": "二十四史名...", "link": "http://mooc1.chaoxing.com/course/216641382.html", "id": "216641382", "videoTime": 812, "videoNum": 54}    
+ [58/145] Get Class {"name": "欧洲一体化", "link": "http://mooc1.chaoxing.com/course/216641384.html", "id": "216641384", "videoTime": 245, "videoNum": 22}       
+ [59/145] Get Class {"name": "心理学的智慧", "link": "http://mooc1.chaoxing.com/course/216641385.html", "id": "216641385", "videoTime": 611, "videoNum": 46}      
+ [60/145] Get Class {"name": "美国文化", "link": "http://mooc1.chaoxing.com/course/216641386.html", "id": "216641386", "videoTime": 659, "videoNum": 32}        
+ [61/145] Get Class {"name": "探寻中国茶...", "link": "http://mooc1.chaoxing.com/course/216641387.html", "id": "216641387", "videoTime": 913, "videoNum": 53}    
+ [62/145] Get Class {"name": "中国古代技术", "link": "http://mooc1.chaoxing.com/course/216641388.html", "id": "216641388", "videoTime": 414, "videoNum": 36}      
+ [63/145] Get Class {"name": "欧洲文明概论", "link": "http://mooc1.chaoxing.com/course/216641389.html", "id": "216641389", "videoTime": 979, "videoNum": 44}      
+ [64/145] Get Class {"name": "走近中华优...", "link": "http://mooc1.chaoxing.com/course/216641390.html", "id": "216641390", "videoTime": 399, "videoNum": 33}    
+ [65/145] Get Class {"name": "百年风流人...", "link": "http://mooc1.chaoxing.com/course/216641391.html", "id": "216641391", "videoTime": 620, "videoNum": 28}    
+ [66/145] Get Class {"name": "中国文化：...", "link": "http://mooc1.chaoxing.com/course/216641392.html", "id": "216641392", "videoTime": 653, "videoNum": 38}    
+ [67/145] Get Class {"name": "红色经典影...", "link": "http://mooc1.chaoxing.com/course/216641393.html", "id": "216641393", "videoTime": 891, "videoNum": 70}    
+ [68/145] Get Class {"name": "艺术导论（...", "link": "http://mooc1.chaoxing.com/course/216641394.html", "id": "216641394", "videoTime": 1274, "videoNum": 49}   
+ [69/145] Get Class {"name": "中国民间艺...", "link": "http://mooc1.chaoxing.com/course/216641395.html", "id": "216641395", "videoTime": 518, "videoNum": 60}    
+ [70/145] Get Class {"name": "艺术鉴赏", "link": "http://mooc1.chaoxing.com/course/216641396.html", "id": "216641396", "videoTime": 891, "videoNum": 68}        
+ [71/145] Get Class {"name": "聆听心声：...", "link": "http://mooc1.chaoxing.com/course/216641397.html", "id": "216641397", "videoTime": 1136, "videoNum": 85}   
+ [72/145] Get Class {"name": "穿T恤听古典音乐", "link": "http://mooc1.chaoxing.com/course/216641398.html", "id": "216641398", "videoTime": 867, "videoNum": 49}    
+ [73/145] Get Class {"name": "走进西方音乐", "link": "http://mooc1.chaoxing.com/course/216641399.html", "id": "216641399", "videoTime": 650, "videoNum": 62}      
+ [74/145] Get Class {"name": "从草根到殿...", "link": "http://mooc1.chaoxing.com/course/216641400.html", "id": "216641400", "videoTime": 948, "videoNum": 73}    
+ [75/145] Get Class {"name": "中国戏曲·昆曲", "link": "http://mooc1.chaoxing.com/course/216641401.html", "id": "216641401", "videoTime": 849, "videoNum": 38}     
+ [76/145] Get Class {"name": "美的历程：...", "link": "http://mooc1.chaoxing.com/course/216641402.html", "id": "216641402", "videoTime": 454, "videoNum": 50}    
+ [77/145] Get Class {"name": "绘画里的中...", "link": "http://mooc1.chaoxing.com/course/216641403.html", "id": "216641403", "videoTime": 414, "videoNum": 37}    
+ [78/145] Get Class {"name": "中华传统文...", "link": "http://mooc1.chaoxing.com/course/216641404.html", "id": "216641404", "videoTime": 517, "videoNum": 48}    
+ [79/145] Get Class {"name": "中国古建筑...", "link": "http://mooc1.chaoxing.com/course/216641405.html", "id": "216641405", "videoTime": 1043, "videoNum": 85}   
+ [80/145] Get Class {"name": "人人爱设计", "link": "http://mooc1.chaoxing.com/course/216641406.html", "id": "216641406", "videoTime": 592, "videoNum": 46}       
+ [81/145] Get Class {"name": "影响力从语...", "link": "http://mooc1.chaoxing.com/course/216641407.html", "id": "216641407", "videoTime": 936, "videoNum": 61}    
+ [82/145] Get Class {"name": "舞台人生：...", "link": "http://mooc1.chaoxing.com/course/216641408.html", "id": "216641408", "videoTime": 1395, "videoNum": 68}   
+ [83/145] Get Class {"name": "日本近现代...", "link": "http://mooc1.chaoxing.com/course/216641409.html", "id": "216641409", "videoTime": 786, "videoNum": 61}    
+ [84/145] Get Class {"name": "垃圾分类", "link": "http://mooc1.chaoxing.com/course/216641410.html", "id": "216641410", "videoTime": 164, "videoNum": 24}        
+ [85/145] Get Class {"name": "说说员工与...", "link": "http://mooc1.chaoxing.com/course/216641411.html", "id": "216641411", "videoTime": 475, "videoNum": 47}    
+ [86/145] Get Class {"name": "丝绸之路上...", "link": "http://mooc1.chaoxing.com/course/216641412.html", "id": "216641412", "videoTime": 672, "videoNum": 58}    
+ [87/145] Get Class {"name": "女性学：女...", "link": "http://mooc1.chaoxing.com/course/216641413.html", "id": "216641413", "videoTime": 782, "videoNum": 39}    
+ [88/145] Get Class {"name": "战略推演：...", "link": "http://mooc1.chaoxing.com/course/216641414.html", "id": "216641414", "videoTime": 461, "videoNum": 56}    
+ [89/145] Get Class {"name": "新媒体环境...", "link": "http://mooc1.chaoxing.com/course/216641415.html", "id": "216641415", "videoTime": 657, "videoNum": 63}    
+ [90/145] Get Class {"name": "公共治理与...", "link": "http://mooc1.chaoxing.com/course/216641416.html", "id": "216641416", "videoTime": 962, "videoNum": 56}    
+ [91/145] Get Class {"name": "媒体创意经...", "link": "http://mooc1.chaoxing.com/course/216641417.html", "id": "216641417", "videoTime": 608, "videoNum": 40}    
+ [92/145] Get Class {"name": "组织行为学", "link": "http://mooc1.chaoxing.com/course/216641418.html", "id": "216641418", "videoTime": 956, "videoNum": 78}       
+ [93/145] Get Class {"name": "经国济民", "link": "http://mooc1.chaoxing.com/course/216641419.html", "id": "216641419", "videoTime": 855, "videoNum": 49}        
+ [94/145] Get Class {"name": "社会学与中...", "link": "http://mooc1.chaoxing.com/course/216641420.html", "id": "216641420", "videoTime": 705, "videoNum": 47}    
+ [95/145] Get Class {"name": "【基础版】...", "link": "http://mooc1.chaoxing.com/course/216641421.html", "id": "216641421", "videoTime": 641, "videoNum": 58}    
+ [96/145] Get Class {"name": "人工智能与...", "link": "http://mooc1.chaoxing.com/course/216641422.html", "id": "216641422", "videoTime": 639, "videoNum": 53}    
+ [97/145] Get Class {"name": "人工智能", "link": "http://mooc1.chaoxing.com/course/216641423.html", "id": "216641423", "videoTime": 976, "videoNum": 59}        
+ [98/145] Get Class {"name": "智能文明", "link": "http://mooc1.chaoxing.com/course/216641424.html", "id": "216641424", "videoTime": 1094, "videoNum": 50}       
+ [99/145] Get Class {"name": "人文智能", "link": "http://mooc1.chaoxing.com/course/216641426.html", "id": "216641426", "videoTime": 1223, "videoNum": 60}       
+ [100/145] Get Class {"name": "智能法理", "link": "http://mooc1.chaoxing.com/course/216641427.html", "id": "216641427", "videoTime": 1040, "videoNum": 62}      
+ [101/145] Get Class {"name": "生命智能", "link": "http://mooc1.chaoxing.com/course/216641428.html", "id": "216641428", "videoTime": 1148, "videoNum": 54}      
+ [102/145] Get Class {"name": "大数据算法", "link": "http://mooc1.chaoxing.com/course/216641429.html", "id": "216641429", "videoTime": 446, "videoNum": 36}      
+ [103/145] Get Class {"name": "工程伦理", "link": "http://mooc1.chaoxing.com/course/216641430.html", "id": "216641430", "videoTime": 958, "videoNum": 76}       
+ [104/145] Get Class {"name": "走近核科学技术", "link": "http://mooc1.chaoxing.com/course/216641431.html", "id": "216641431", "videoTime": 360, "videoNum": 28}    
+ [105/145] Get Class {"name": "算法与程序...", "link": "http://mooc1.chaoxing.com/course/216641432.html", "id": "216641432", "videoTime": 575, "videoNum": 34}   
+ [106/145] Get Class {"name": "机器的征途...", "link": "http://mooc1.chaoxing.com/course/216641433.html", "id": "216641433", "videoTime": 524, "videoNum": 48}   
+ [107/145] Get Class {"name": "世界地理", "link": "http://mooc1.chaoxing.com/course/216641434.html", "id": "216641434", "videoTime": 1054, "videoNum": 58}      
+ [108/145] Get Class {"name": "数据时代的...", "link": "http://mooc1.chaoxing.com/course/216641435.html", "id": "216641435", "videoTime": 422, "videoNum": 33}   
+ [109/145] Get Class {"name": "智慧海洋", "link": "http://mooc1.chaoxing.com/course/216641436.html", "id": "216641436", "videoTime": 1498, "videoNum": 132}     
+ [110/145] Get Class {"name": "地球历史及...", "link": "http://mooc1.chaoxing.com/course/216641437.html", "id": "216641437", "videoTime": 709, "videoNum": 127}  
+ [111/145] Get Class {"name": "太阳系中的...", "link": "http://mooc1.chaoxing.com/course/216641438.html", "id": "216641438", "videoTime": 1153, "videoNum": 78}  
+ [112/145] Get Class {"name": "文科物理", "link": "http://mooc1.chaoxing.com/course/216641439.html", "id": "216641439", "videoTime": 405, "videoNum": 96}       
+ [113/145] Get Class {"name": "基因与人", "link": "http://mooc1.chaoxing.com/course/216641440.html", "id": "216641440", "videoTime": 729, "videoNum": 49}       
+ [114/145] Get Class {"name": "从爱因斯坦...", "link": "http://mooc1.chaoxing.com/course/216641441.html", "id": "216641441", "videoTime": 1590, "videoNum": 120} 
+ [115/145] Get Class {"name": "科幻中的物理学", "link": "http://mooc1.chaoxing.com/course/216641442.html", "id": "216641442", "videoTime": 376, "videoNum": 30}     
+ [116/145] Get Class {"name": "什么是科学", "link": "http://mooc1.chaoxing.com/course/216641443.html", "id": "216641443", "videoTime": 793, "videoNum": 83}       
+ [117/145] Get Class {"name": "数学的奥秘...", "link": "http://mooc1.chaoxing.com/course/216641444.html", "id": "216641444", "videoTime": 718, "videoNum": 50}    
+ [118/145] Get Class {"name": "星海求知：...", "link": "http://mooc1.chaoxing.com/course/216641445.html", "id": "216641445", "videoTime": 996, "videoNum": 80}    
+ [119/145] Get Class {"name": "脑洞大开背...", "link": "http://mooc1.chaoxing.com/course/216641446.html", "id": "216641446", "videoTime": 601, "videoNum": 56}    
+ [120/145] Get Class {"name": "创新思维训练", "link": "http://mooc1.chaoxing.com/course/216641447.html", "id": "216641447", "videoTime": 238, "videoNum": 15}      
+ [121/145] Get Class {"name": "批创思维导论", "link": "http://mooc1.chaoxing.com/course/216641448.html", "id": "216641448", "videoTime": 542, "videoNum": 64}      
+ [122/145] Get Class {"name": "走进创业", "link": "http://mooc1.chaoxing.com/course/216641449.html", "id": "216641449", "videoTime": 320, "videoNum": 22}        
+ [123/145] Get Class {"name": "整合思维", "link": "http://mooc1.chaoxing.com/course/216641450.html", "id": "216641450", "videoTime": 720, "videoNum": 80}        
+ [124/145] Get Class {"name": "批判与创意思考", "link": "http://mooc1.chaoxing.com/course/216641451.html", "id": "216641451", "videoTime": 858, "videoNum": 67}     
+ [125/145] Get Class {"name": "创业人生", "link": "http://mooc1.chaoxing.com/course/216641452.html", "id": "216641452", "videoTime": 636, "videoNum": 46}        
+ [126/145] Get Class {"name": "大学生创新基础", "link": "http://mooc1.chaoxing.com/course/216641453.html", "id": "216641453", "videoTime": 1266, "videoNum": 76}    
+ [127/145] Get Class {"name": "应用写作技...", "link": "http://mooc1.chaoxing.com/course/216641454.html", "id": "216641454", "videoTime": 622, "videoNum": 76}    
+ [128/145] Get Class {"name": "巧克毕业论文", "link": "http://mooc1.chaoxing.com/course/216641455.html", "id": "216641455", "videoTime": 336, "videoNum": 30}      
+ [129/145] Get Class {"name": "男生穿搭技巧", "link": "http://mooc1.chaoxing.com/course/216641456.html", "id": "216641456", "videoTime": 427, "videoNum": 40}      
+ [130/145] Get Class {"name": "高级英语写作", "link": "http://mooc1.chaoxing.com/course/216641457.html", "id": "216641457", "videoTime": 606, "videoNum": 51}      
+ [131/145] Get Class {"name": "个人理财规划", "link": "http://mooc1.chaoxing.com/course/216641459.html", "id": "216641459", "videoTime": 390, "videoNum": 58}      
+ [132/145] Get Class {"name": "现代市场营...", "link": "http://mooc1.chaoxing.com/course/216641460.html", "id": "216641460", "videoTime": 923, "videoNum": 43}    
+ [133/145] Get Class {"name": "论文写作初阶", "link": "http://mooc1.chaoxing.com/course/216641461.html", "id": "216641461", "videoTime": 516, "videoNum": 34}      
+ [134/145] Get Class {"name": "信息素养通...", "link": "http://mooc1.chaoxing.com/course/216641462.html", "id": "216641462", "videoTime": 392, "videoNum": 44}    
+ [135/145] Get Class {"name": "文献管理与...", "link": "http://mooc1.chaoxing.com/course/216641463.html", "id": "216641463", "videoTime": 1188, "videoNum": 66}   
+ [136/145] Get Class {"name": "化妆品赏析...", "link": "http://mooc1.chaoxing.com/course/216641465.html", "id": "216641465", "videoTime": 677, "videoNum": 69}    
+ [137/145] Get Class {"name": "外经贸英语函电", "link": "http://mooc1.chaoxing.com/course/216641466.html", "id": "216641466", "videoTime": 389, "videoNum": 45}     
+ [138/145] Get Class {"name": "信息素养：...", "link": "http://mooc1.chaoxing.com/course/216641468.html", "id": "216641468", "videoTime": 384, "videoNum": 127}   
+ [139/145] Get Class {"name": "职业压力管理", "link": "http://mooc1.chaoxing.com/course/216641469.html", "id": "216641469", "videoTime": 321, "videoNum": 15}      
+ [140/145] Get Class {"name": "大学生魅力...", "link": "http://mooc1.chaoxing.com/course/216641470.html", "id": "216641470", "videoTime": 279, "videoNum": 25}    
+ [141/145] Get Class {"name": "形象管理", "link": "http://mooc1.chaoxing.com/course/216641471.html", "id": "216641471", "videoTime": 794, "videoNum": 66}        
+ [142/145] Get Class {"name": "情绪管理", "link": "http://mooc1.chaoxing.com/course/216641472.html", "id": "216641472", "videoTime": 266, "videoNum": 13}        
+ [143/145] Get Class {"name": "如何高效学习", "link": "http://mooc1.chaoxing.com/course/216641473.html", "id": "216641473", "videoTime": 254, "videoNum": 36}      
+ [144/145] Get Class {"name": "有效沟通技巧", "link": "http://mooc1.chaoxing.com/course/216641474.html", "id": "216641474", "videoTime": 322, "videoNum": 25}      解析完成，开始排序
+排序完成，输出结果
+课程:商务英语写...		 | 视频数量:36 	| 视频时间:159 	| 页面:http://mooc1.chaoxing.com/course/204210899.html
+课程:垃圾分类		 | 视频数量:24 	| 视频时间:164 	| 页面:http://mooc1.chaoxing.com/course/216641410.html
+课程:《上帝掷骰...		 | 视频数量:24 	| 视频时间:189 	| 页面:http://mooc1.chaoxing.com/course/216641371.html
+课程:帝国的兴衰...		 | 视频数量:24 	| 视频时间:237 	| 页面:http://mooc1.chaoxing.com/course/216641375.html
+课程:创新思维训练		 | 视频数量:15 	| 视频时间:238 	| 页面:http://mooc1.chaoxing.com/course/216641447.html
+课程:欧洲一体化		 | 视频数量:22 	| 视频时间:245 	| 页面:http://mooc1.chaoxing.com/course/216641384.html
+课程:如何高效学习		 | 视频数量:36 	| 视频时间:254 	| 页面:http://mooc1.chaoxing.com/course/216641473.html
+课程:情绪管理		 | 视频数量:13 	| 视频时间:266 	| 页面:http://mooc1.chaoxing.com/course/216641472.html
+课程:大学生魅力...		 | 视频数量:25 	| 视频时间:279 	| 页面:http://mooc1.chaoxing.com/course/216641470.html
+课程:走进创业		 | 视频数量:22 	| 视频时间:320 	| 页面:http://mooc1.chaoxing.com/course/216641449.html
+课程:职业压力管理		 | 视频数量:15 	| 视频时间:321 	| 页面:http://mooc1.chaoxing.com/course/216641469.html
+课程:有效沟通技巧		 | 视频数量:25 	| 视频时间:322 	| 页面:http://mooc1.chaoxing.com/course/216641474.html
+课程:巧克毕业论文		 | 视频数量:30 	| 视频时间:336 	| 页面:http://mooc1.chaoxing.com/course/216641455.html
+课程:走近核科学技术		 | 视频数量:28 	| 视频时间:360 	| 页面:http://mooc1.chaoxing.com/course/216641431.html
+课程:科幻中的物理学		 | 视频数量:30 	| 视频时间:376 	| 页面:http://mooc1.chaoxing.com/course/216641442.html
+课程:信息素养：...		 | 视频数量:127 	| 视频时间:384 	| 页面:http://mooc1.chaoxing.com/course/216641468.html
+课程:外经贸英语函电		 | 视频数量:45 	| 视频时间:389 	| 页面:http://mooc1.chaoxing.com/course/216641466.html
+课程:个人理财规划		 | 视频数量:58 	| 视频时间:390 	| 页面:http://mooc1.chaoxing.com/course/216641459.html
+课程:信息素养通...		 | 视频数量:44 	| 视频时间:392 	| 页面:http://mooc1.chaoxing.com/course/216641462.html
+课程:走近中华优...		 | 视频数量:33 	| 视频时间:399 	| 页面:http://mooc1.chaoxing.com/course/216641390.html
+课程:《时间简史...		 | 视频数量:43 	| 视频时间:401 	| 页面:http://mooc1.chaoxing.com/course/216641377.html
+课程:文科物理		 | 视频数量:96 	| 视频时间:405 	| 页面:http://mooc1.chaoxing.com/course/216641439.html
+课程:中国古代技术		 | 视频数量:36 	| 视频时间:414 	| 页面:http://mooc1.chaoxing.com/course/216641388.html
+课程:绘画里的中...		 | 视频数量:37 	| 视频时间:414 	| 页面:http://mooc1.chaoxing.com/course/216641403.html
+课程:数据时代的...		 | 视频数量:33 	| 视频时间:422 	| 页面:http://mooc1.chaoxing.com/course/216641435.html
+课程:男生穿搭技巧		 | 视频数量:40 	| 视频时间:427 	| 页面:http://mooc1.chaoxing.com/course/216641456.html
+课程:大数据算法		 | 视频数量:36 	| 视频时间:446 	| 页面:http://mooc1.chaoxing.com/course/216641429.html
+课程:美的历程：...		 | 视频数量:50 	| 视频时间:454 	| 页面:http://mooc1.chaoxing.com/course/216641402.html
+课程:战略推演：...		 | 视频数量:56 	| 视频时间:461 	| 页面:http://mooc1.chaoxing.com/course/216641414.html
+课程:说说员工与...		 | 视频数量:47 	| 视频时间:475 	| 页面:http://mooc1.chaoxing.com/course/216641411.html
+课程:论文写作初阶		 | 视频数量:34 	| 视频时间:516 	| 页面:http://mooc1.chaoxing.com/course/216641461.html
+课程:中华传统文...		 | 视频数量:48 	| 视频时间:517 	| 页面:http://mooc1.chaoxing.com/course/216641404.html
+课程:中国民间艺...		 | 视频数量:60 	| 视频时间:518 	| 页面:http://mooc1.chaoxing.com/course/216641395.html
+课程:中国文明史...		 | 视频数量:50 	| 视频时间:520 	| 页面:http://mooc1.chaoxing.com/course/216641325.html
+课程:机器的征途...		 | 视频数量:48 	| 视频时间:524 	| 页面:http://mooc1.chaoxing.com/course/216641433.html
+课程:批创思维导论		 | 视频数量:64 	| 视频时间:542 	| 页面:http://mooc1.chaoxing.com/course/216641448.html
+课程:多元对话：...		 | 视频数量:33 	| 视频时间:561 	| 页面:http://mooc1.chaoxing.com/course/216641339.html
+课程:算法与程序...		 | 视频数量:34 	| 视频时间:575 	| 页面:http://mooc1.chaoxing.com/course/216641432.html
+课程:人人爱设计		 | 视频数量:46 	| 视频时间:592 	| 页面:http://mooc1.chaoxing.com/course/216641406.html
+课程:脑洞大开背...		 | 视频数量:56 	| 视频时间:601 	| 页面:http://mooc1.chaoxing.com/course/216641446.html
+课程:高级英语写作		 | 视频数量:51 	| 视频时间:606 	| 页面:http://mooc1.chaoxing.com/course/216641457.html
+课程:媒体创意经...		 | 视频数量:40 	| 视频时间:608 	| 页面:http://mooc1.chaoxing.com/course/216641417.html
+课程:心理学的智慧		 | 视频数量:46 	| 视频时间:611 	| 页面:http://mooc1.chaoxing.com/course/216641385.html
+课程:儒学复兴与...		 | 视频数量:36 	| 视频时间:618 	| 页面:http://mooc1.chaoxing.com/course/216641331.html
+课程:百年风流人...		 | 视频数量:28 	| 视频时间:620 	| 页面:http://mooc1.chaoxing.com/course/216641391.html
+课程:应用写作技...		 | 视频数量:76 	| 视频时间:622 	| 页面:http://mooc1.chaoxing.com/course/216641454.html
+课程:创业人生		 | 视频数量:46 	| 视频时间:636 	| 页面:http://mooc1.chaoxing.com/course/216641452.html
+课程:意义生活：...		 | 视频数量:55 	| 视频时间:638 	| 页面:http://mooc1.chaoxing.com/course/216641343.html
+课程:人工智能与...		 | 视频数量:53 	| 视频时间:639 	| 页面:http://mooc1.chaoxing.com/course/216641422.html
+课程:【基础版】...		 | 视频数量:58 	| 视频时间:641 	| 页面:http://mooc1.chaoxing.com/course/216641421.html
+课程:走进西方音乐		 | 视频数量:62 	| 视频时间:650 	| 页面:http://mooc1.chaoxing.com/course/216641399.html
+课程:中国文化：...		 | 视频数量:38 	| 视频时间:653 	| 页面:http://mooc1.chaoxing.com/course/216641392.html
+课程:《植物知道...		 | 视频数量:58 	| 视频时间:654 	| 页面:http://mooc1.chaoxing.com/course/216641376.html
+课程:新媒体环境...		 | 视频数量:63 	| 视频时间:657 	| 页面:http://mooc1.chaoxing.com/course/216641415.html
+课程:美国文化		 | 视频数量:32 	| 视频时间:659 	| 页面:http://mooc1.chaoxing.com/course/216641386.html
+课程:丝绸之路上...		 | 视频数量:58 	| 视频时间:672 	| 页面:http://mooc1.chaoxing.com/course/216641412.html
+课程:化妆品赏析...		 | 视频数量:69 	| 视频时间:677 	| 页面:http://mooc1.chaoxing.com/course/216641465.html
+课程:透过性别看世界		 | 视频数量:49 	| 视频时间:684 	| 页面:http://mooc1.chaoxing.com/course/216641360.html
+课程:《理想国》导读		 | 视频数量:52 	| 视频时间:691 	| 页面:http://mooc1.chaoxing.com/course/216641372.html
+课程:社会学与中...		 | 视频数量:47 	| 视频时间:705 	| 页面:http://mooc1.chaoxing.com/course/216641420.html
+课程:地球历史及...		 | 视频数量:127 	| 视频时间:709 	| 页面:http://mooc1.chaoxing.com/course/216641437.html
+课程:中国文明史...		 | 视频数量:67 	| 视频时间:713 	| 页面:http://mooc1.chaoxing.com/course/216641324.html
+课程:《论语》导...		 | 视频数量:56 	| 视频时间:715 	| 页面:http://mooc1.chaoxing.com/course/216641379.html
+课程:数学的奥秘...		 | 视频数量:50 	| 视频时间:718 	| 页面:http://mooc1.chaoxing.com/course/216641444.html
+课程:整合思维		 | 视频数量:80 	| 视频时间:720 	| 页面:http://mooc1.chaoxing.com/course/216641450.html
+课程:基因与人		 | 视频数量:49 	| 视频时间:729 	| 页面:http://mooc1.chaoxing.com/course/216641440.html
+课程:通识写作：...		 | 视频数量:60 	| 视频时间:740 	| 页面:http://mooc1.chaoxing.com/course/216641346.html
+课程:《正义论》导读		 | 视频数量:52 	| 视频时间:765 	| 页面:http://mooc1.chaoxing.com/course/216641373.html
+课程:人工智能，...		 | 视频数量:45 	| 视频时间:771 	| 页面:http://mooc1.chaoxing.com/course/216641362.html
+课程:马克思主义...		 | 视频数量:49 	| 视频时间:776 	| 页面:http://mooc1.chaoxing.com/course/216641361.html
+课程:女性学：女...		 | 视频数量:39 	| 视频时间:782 	| 页面:http://mooc1.chaoxing.com/course/216641413.html
+课程:日本近现代...		 | 视频数量:61 	| 视频时间:786 	| 页面:http://mooc1.chaoxing.com/course/216641409.html
+课程:知识论导论...		 | 视频数量:54 	| 视频时间:787 	| 页面:http://mooc1.chaoxing.com/course/216641336.html
+课程:创新中国		 | 视频数量:42 	| 视频时间:789 	| 页面:http://mooc1.chaoxing.com/course/216641330.html
+课程:什么是科学		 | 视频数量:83 	| 视频时间:793 	| 页面:http://mooc1.chaoxing.com/course/216641443.html
+课程:经济学原理...		 | 视频数量:50 	| 视频时间:794 	| 页面:http://mooc1.chaoxing.com/course/216641358.html
+课程:形象管理		 | 视频数量:66 	| 视频时间:794 	| 页面:http://mooc1.chaoxing.com/course/216641471.html
+课程:文学与伦理		 | 视频数量:49 	| 视频时间:810 	| 页面:http://mooc1.chaoxing.com/course/216641337.html
+课程:二十四史名...		 | 视频数量:54 	| 视频时间:812 	| 页面:http://mooc1.chaoxing.com/course/216641382.html
+课程:《春秋》导读		 | 视频数量:46 	| 视频时间:813 	| 页面:http://mooc1.chaoxing.com/course/216641380.html
+课程:中国当代小...		 | 视频数量:52 	| 视频时间:817 	| 页面:http://mooc1.chaoxing.com/course/216641355.html
+课程:中国历史人...		 | 视频数量:49 	| 视频时间:831 	| 页面:http://mooc1.chaoxing.com/course/216641327.html
+课程:身边的基因科学		 | 视频数量:60 	| 视频时间:846 	| 页面:http://mooc1.chaoxing.com/course/216641345.html
+课程:中国戏曲·昆曲		 | 视频数量:38 	| 视频时间:849 	| 页面:http://mooc1.chaoxing.com/course/216641401.html
+课程:经国济民		 | 视频数量:49 	| 视频时间:855 	| 页面:http://mooc1.chaoxing.com/course/216641419.html
+课程:历史的三峡...		 | 视频数量:60 	| 视频时间:858 	| 页面:http://mooc1.chaoxing.com/course/216641341.html
+课程:批判与创意思考		 | 视频数量:67 	| 视频时间:858 	| 页面:http://mooc1.chaoxing.com/course/216641451.html
+课程:中国历史人...		 | 视频数量:43 	| 视频时间:864 	| 页面:http://mooc1.chaoxing.com/course/216641326.html
+课程:中国古典小...		 | 视频数量:56 	| 视频时间:867 	| 页面:http://mooc1.chaoxing.com/course/216641368.html
+课程:穿T恤听古典音乐		 | 视频数量:49 	| 视频时间:867 	| 页面:http://mooc1.chaoxing.com/course/216641398.html
+课程:像经济学家...		 | 视频数量:55 	| 视频时间:870 	| 页面:http://mooc1.chaoxing.com/course/216641359.html
+课程:走近大诗人		 | 视频数量:58 	| 视频时间:885 	| 页面:http://mooc1.chaoxing.com/course/216641340.html
+课程:红色经典影...		 | 视频数量:70 	| 视频时间:891 	| 页面:http://mooc1.chaoxing.com/course/216641393.html
+课程:艺术鉴赏		 | 视频数量:68 	| 视频时间:891 	| 页面:http://mooc1.chaoxing.com/course/216641396.html
+课程:中国古典哲...		 | 视频数量:53 	| 视频时间:896 	| 页面:http://mooc1.chaoxing.com/course/216641338.html
+课程:大脑的奥秘...		 | 视频数量:51 	| 视频时间:902 	| 页面:http://mooc1.chaoxing.com/course/216641364.html
+课程:探寻中国茶...		 | 视频数量:53 	| 视频时间:913 	| 页面:http://mooc1.chaoxing.com/course/216641387.html
+课程:艺术哲学：...		 | 视频数量:57 	| 视频时间:915 	| 页面:http://mooc1.chaoxing.com/course/216641334.html
+课程:现代市场营...		 | 视频数量:43 	| 视频时间:923 	| 页面:http://mooc1.chaoxing.com/course/216641460.html
+课程:影响力从语...		 | 视频数量:61 	| 视频时间:936 	| 页面:http://mooc1.chaoxing.com/course/216641407.html
+课程:从草根到殿...		 | 视频数量:73 	| 视频时间:948 	| 页面:http://mooc1.chaoxing.com/course/216641400.html
+课程:组织行为学		 | 视频数量:78 	| 视频时间:956 	| 页面:http://mooc1.chaoxing.com/course/216641418.html
+课程:工程伦理		 | 视频数量:76 	| 视频时间:958 	| 页面:http://mooc1.chaoxing.com/course/216641430.html
+课程:公共治理与...		 | 视频数量:56 	| 视频时间:962 	| 页面:http://mooc1.chaoxing.com/course/216641416.html
+课程:经济学原理...		 | 视频数量:68 	| 视频时间:964 	| 页面:http://mooc1.chaoxing.com/course/216641357.html
+课程:《中庸》精读		 | 视频数量:73 	| 视频时间:965 	| 页面:http://mooc1.chaoxing.com/course/216641365.html
+课程:《诗经》导读		 | 视频数量:69 	| 视频时间:974 	| 页面:http://mooc1.chaoxing.com/course/216641378.html
+课程:人工智能		 | 视频数量:59 	| 视频时间:976 	| 页面:http://mooc1.chaoxing.com/course/216641423.html
+课程:《孟子》精读		 | 视频数量:69 	| 视频时间:978 	| 页面:http://mooc1.chaoxing.com/course/216641366.html
+课程:欧洲文明概论		 | 视频数量:44 	| 视频时间:979 	| 页面:http://mooc1.chaoxing.com/course/216641389.html
+课程:星海求知：...		 | 视频数量:80 	| 视频时间:996 	| 页面:http://mooc1.chaoxing.com/course/216641445.html
+课程:大学生健康教育		 | 视频数量:75 	| 视频时间:1001 	| 页面:http://mooc1.chaoxing.com/course/216641344.html
+课程:纷争的年代...		 | 视频数量:55 	| 视频时间:1004 	| 页面:http://mooc1.chaoxing.com/course/216641342.html
+课程:犯罪与文明		 | 视频数量:61 	| 视频时间:1020 	| 页面:http://mooc1.chaoxing.com/course/216641348.html
+课程:《三国志》导读		 | 视频数量:56 	| 视频时间:1026 	| 页面:http://mooc1.chaoxing.com/course/216641381.html
+课程:中华诗词之美		 | 视频数量:50 	| 视频时间:1031 	| 页面:http://mooc1.chaoxing.com/course/216641328.html
+课程:《大学》精读		 | 视频数量:74 	| 视频时间:1032 	| 页面:http://mooc1.chaoxing.com/course/216641369.html
+课程:智能法理		 | 视频数量:62 	| 视频时间:1040 	| 页面:http://mooc1.chaoxing.com/course/216641427.html
+课程:中国古建筑...		 | 视频数量:85 	| 视频时间:1043 	| 页面:http://mooc1.chaoxing.com/course/216641405.html
+课程:人文的物理学		 | 视频数量:70 	| 视频时间:1046 	| 页面:http://mooc1.chaoxing.com/course/216641363.html
+课程:世界地理		 | 视频数量:58 	| 视频时间:1054 	| 页面:http://mooc1.chaoxing.com/course/216641434.html
+课程:智能文明		 | 视频数量:50 	| 视频时间:1094 	| 页面:http://mooc1.chaoxing.com/course/216641424.html
+课程:舌尖上的植物学		 | 视频数量:99 	| 视频时间:1095 	| 页面:http://mooc1.chaoxing.com/course/216641329.html
+课程:欧洲文明的...		 | 视频数量:60 	| 视频时间:1120 	| 页面:http://mooc1.chaoxing.com/course/216641349.html
+课程:《论语》精读		 | 视频数量:89 	| 视频时间:1126 	| 页面:http://mooc1.chaoxing.com/course/216641370.html
+课程:聆听心声：...		 | 视频数量:85 	| 视频时间:1136 	| 页面:http://mooc1.chaoxing.com/course/216641397.html
+课程:生命智能		 | 视频数量:54 	| 视频时间:1148 	| 页面:http://mooc1.chaoxing.com/course/216641428.html
+课程:太阳系中的...		 | 视频数量:78 	| 视频时间:1153 	| 页面:http://mooc1.chaoxing.com/course/216641438.html
+课程:文献管理与...		 | 视频数量:66 	| 视频时间:1188 	| 页面:http://mooc1.chaoxing.com/course/216641463.html
+课程:《共产党宣...		 | 视频数量:70 	| 视频时间:1211 	| 页面:http://mooc1.chaoxing.com/course/216641374.html
+课程:古典诗词鉴赏		 | 视频数量:72 	| 视频时间:1215 	| 页面:http://mooc1.chaoxing.com/course/216641351.html
+课程:人文智能		 | 视频数量:60 	| 视频时间:1223 	| 页面:http://mooc1.chaoxing.com/course/216641426.html
+课程:学术规范与...		 | 视频数量:62 	| 视频时间:1263 	| 页面:http://mooc1.chaoxing.com/course/216641332.html
+课程:大学生创新基础		 | 视频数量:76 	| 视频时间:1266 	| 页面:http://mooc1.chaoxing.com/course/216641453.html
+课程:艺术导论（...		 | 视频数量:49 	| 视频时间:1274 	| 页面:http://mooc1.chaoxing.com/course/216641394.html
+课程:中国现代文...		 | 视频数量:58 	| 视频时间:1284 	| 页面:http://mooc1.chaoxing.com/course/216641335.html
+课程:先秦诸子		 | 视频数量:74 	| 视频时间:1291 	| 页面:http://mooc1.chaoxing.com/course/216641353.html
+课程:考古与人类		 | 视频数量:72 	| 视频时间:1351 	| 页面:http://mooc1.chaoxing.com/course/216641350.html
+课程:舞台人生：...		 | 视频数量:68 	| 视频时间:1395 	| 页面:http://mooc1.chaoxing.com/course/216641408.html
+课程:中国道路的...		 | 视频数量:102 	| 视频时间:1420 	| 页面:http://mooc1.chaoxing.com/course/216641356.html
+课程:经济与社会...		 | 视频数量:84 	| 视频时间:1443 	| 页面:http://mooc1.chaoxing.com/course/216641347.html
+课程:智慧海洋		 | 视频数量:132 	| 视频时间:1498 	| 页面:http://mooc1.chaoxing.com/course/216641436.html
+课程:从爱因斯坦...		 | 视频数量:120 	| 视频时间:1590 	| 页面:http://mooc1.chaoxing.com/course/216641441.html
+课程:经典力学		 | 视频数量:134 	| 视频时间:2643 	| 页面:http://mooc1.chaoxing.com/course/216641333.html
